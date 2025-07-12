@@ -5,6 +5,7 @@ def main():
 
 def test():
     print("from oscar, for test")
+    return True
 
 
 if __name__ == "__main__":
